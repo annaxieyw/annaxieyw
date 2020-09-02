@@ -1,12 +1,14 @@
 /*
- * TextInfo.java
+ * name: Anna Xie
+ * BU email: annaxyw@bu.edu
+ * 
+ * Computer Science 112 - ps8pr8
  *
+ * TextInfo.java
  * TextInfo is (1) a blueprint class for objects that summarize information
  * about a text file and (2) a program that can be run to allow clients 
  * to obtain information about a text file.
  * 
- * name: Anna Xie
- * BU email: annaxyw@bu.edu
  */
 
 import java.io.*;
