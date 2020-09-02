@@ -1,3 +1,6 @@
+#from Anna Xie
+#cs111 ps9pr1
+
 class Board:
     """ a data type for a Connect Four board with
         arbitrary dimensions
