@@ -1,9 +1,8 @@
-#from: Anna Xie
+# from: Anna Xie
 #
-# ps9pr1.py  (Problem Set 9, Problem 1)
-#
+# Computer Science 111 - ps9pr1.py
 # Connect-Four Board class 
-#  
+#
 
 class Board:
     """ a data type for a Connect Four board with
