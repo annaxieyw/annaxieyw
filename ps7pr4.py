@@ -1,10 +1,9 @@
+# from: Anna Xie
 #
-# ps7pr4.py  (Problem Set 7, Problem 4)
+# Computer Science 111 - ps7pr4.py
 #
 # Matrix Operations  
 #
-# Computer Science 111   
-# 
 
 def display_menu():
     """ prints a menu of options
