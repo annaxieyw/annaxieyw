@@ -1,9 +1,8 @@
-#from: Anna Xie
+# from: Anna Xie
 #
-# ps9pr2.py  (Problem Set 9, Problem 2)
-#
+# Computer Science 111 - ps9pr2.py
 # Connect-Four Player class 
-#  
+#
 
 from ps9pr1 import Board
 
