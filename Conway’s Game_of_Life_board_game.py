@@ -1,8 +1,7 @@
 # from: Anna Xie
 #
 # Computer Science 111 - ps7pr4.py
-#
-# Matrix Operations  
+# Conway’s Game of Life board game
 #
 
 def display_menu():
